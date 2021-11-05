@@ -1,0 +1,23 @@
+.background {
+    color:red
+}
+
+#baba {
+    color: blue;
+}
+
+.parentDiv {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+}
+h1 {
+    display: inline
+}
+ul {
+    display: flex;
+}
+
+li {
+    margin: 20px;
+}

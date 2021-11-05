@@ -3,12 +3,8 @@
 /***** Labrot-navbar ***************************/
 .labrot-rm-padding{
     padding: 0;
-}
-.labrot-brand-logo{
-    font-weight: 900;
-    font-size: 30px;
-    color: #585050;
-  
+
+
 }
 .labrot-rm-margin{
     margin: 0;
@@ -17,6 +13,24 @@
     padding-bottom: 20px;
 }
 
+
+#myNavbar {
+
+    display: flex;
+    flex-direction: row;
+   
+}
+h1 {
+    display: inline;
+}
+ul {
+    display: flex;
+    color:rgb(247, 106, 252);
+
+}
+
+li {margin: 20px;
+}
 
 /***********Home Section***********/
 
